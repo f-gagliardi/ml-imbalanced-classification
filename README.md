@@ -45,4 +45,6 @@ alternative problem reformulations
 | XGBoost (Balanced)             | 0.1808              | 0.5044           | 0.2662             | 0.6441  |
 | Neural Networks                | 0.1733              | 0.6218           | 0.2711             | 0.6703  |
 
+The results indicate that, despite the use of ensemble methods and neural networks, predictive performance remains constrained. This suggests that the structured clinical variables provide limited separability for early readmissions, pointing to potential information gaps or the influence of latent factors not represented in the dataset.
+
 
